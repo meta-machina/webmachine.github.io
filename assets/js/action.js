@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const chooseFileButton = document.createElement('button');
     chooseFileButton.id = 'chooseFileButton';
     chooseFileButton.className = 'btn btn-primary'; // GitHub Primer style
-    chooseFileButton.textContent = 'Choose File to Load Dialogue';
+    chooseFileButton.textContent = 'Choose File to Load Multilogue';
     chooseFileButton.style.padding = '10px 20px'; // Make button larger
     chooseFileButton.style.fontSize = '1.0rem';
     filePickerContainer.appendChild(chooseFileButton);
