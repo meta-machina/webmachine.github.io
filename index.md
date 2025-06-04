@@ -1,18 +1,19 @@
 ---
 layout: home
-title: Thingking Machine
+title: Reasoning Machine
 ---
-# Thingking Machine
+# Reasoning Machine
 
 <pre>
-  A machine is a <b>thing</b>. Things can not <b>think</b>. ...but some of them can <b>thingk</b>!
+  'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his 
+  book "Cybernetics, or Control and Communication in the Animal and the Machine".
 </pre>
 
-[Thingking-Machine (meta)](https://thingking-machine.github.io/meta/)
+[Reasoning-Machine (meta)](https://reasoning-machine.github.io/meta/)
 
-[Thingking-Machine (openai)](https://thingking-machine.github.io/openai/)
+[Reasoning-Machine (openai)](https://reasoning-machine.github.io/openai/)
 
-[Thingking-Machine (fireworks)](https://thingking-machine.github.io/fireworks/)
+[Reasoning-Machine (fireworks)](https://reasoning-machine.github.io/fireworks/)
 
-[Thingking-Machine (depsek)](https://thingking-machine.github.io/depsek/)
+[Reasoning-Machine (depsek)](https://reasoning-machine.github.io/depsek/)
 
